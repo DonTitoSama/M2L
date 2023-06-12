@@ -12,6 +12,6 @@ Login utilisateur :
 email : user@user.com
 mdp : user
 
-L’accès au blog : http://51.178.86.117:8105/PPE/PPE_1/ 
+L’accès au PPE : http://51.178.86.117:8105/PPE/PPE_1/ 
 
 Jira : https://synrecipe.atlassian.net/jira/software/projects/M2L/boards/2/roadmap?assignee=unassigned%2C63b6a03af3e7004f7
